@@ -1,6 +1,8 @@
 # "7.Working with HTTP"
 
-![CI](https://github.com/ElenaKars/ahj-7.1-helpDesk/actions/workflows/web.yml/badge.svg)
+# ajs-unittest1
+
+[![Build status](https://ci.appveyor.com/api/projects/status/plfr38kxjejpu8yt?svg=true)](https://ci.appveyor.com/project/ElenaKars/ahj-7-1-helpdesk)
 
 Rules for submitting the assignment:
 
